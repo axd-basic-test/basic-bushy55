@@ -1,2 +1,2 @@
-# BASIC_Fractal_LIstings
+# BASIC_Fractal_Listings
 BASIC Fractal Listings from Bob Kitch.
