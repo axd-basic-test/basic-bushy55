@@ -1,7 +1,4 @@
-All of these file have been written to run on the 640x480x16 VGA screen.
-QBASIC (DOS V5.0) was used to develop. 
-Should compile under Microsoft QuickBasic V4.5 with no problem.
-RBK 21/10/92
+(Following lines belong in commit messages)
 
 Changed the last executed END statements to SYSTEM in each program.
 This allows the program to return to DOS when run.
