@@ -2,6 +2,8 @@
 BASIC Fractal Listings from Bob Kitch.
 Originally written for specific Microsoft QuickBASIC v4. 1992-1995 era.
 
+![henon](henon.png)
+
 All of these file have been written to run on the 640x480x16 VGA screen.
 QBASIC (DOS V5.0) was used to develop. 
 Should compile under Microsoft QuickBasic V4.5 with no problem.
